@@ -1,2 +1,2 @@
 # hayai 
-hayai is a cli demo
+hayai is a template repository for quick pull development

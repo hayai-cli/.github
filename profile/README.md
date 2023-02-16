@@ -2,8 +2,13 @@
 hayai is a template repository for quick pull development
 
 ## install
+
+``` sh
 npm install -g hayai-cli
+```
 
 ## usage
-hayai create 'your project name'
 
+``` sh
+hayai create 'your project name'
+```
